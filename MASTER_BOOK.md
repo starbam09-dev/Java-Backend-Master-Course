@@ -2,7 +2,7 @@
 
 This document is the highest-priority source of truth for Java-Backend-Master-Course (JBMC).
 
-All lessons, examples, diagrams, projects, indexes, plans, and generated publication files must follow this document.
+All lessons, examples, diagrams, projects, indexes, plans, documentation rules, and generated publication files must follow this document.
 
 ## Project Name
 
@@ -36,6 +36,8 @@ Lesson order must never be changed.
 The curriculum must not be modified arbitrarily.
 
 Each lesson must build on previous lessons.
+
+Stable project philosophy and decisions are recorded in `docs/decisions/` as ADR documents.
 
 ## Teaching Philosophy
 
@@ -174,8 +176,34 @@ Required root folders:
 - `images/`
 - `pdf/`
 - `template/`
+- `docs/`
 
 The `lesson/` folder must contain placeholder folders from `Lesson01` to `Lesson50`.
+
+## Documentation System
+
+The `docs/` directory stores project-level documentation.
+
+Required `docs/` structure:
+
+- `docs/decisions/`: ADR documents for stable project decisions
+- `docs/glossary/`: Shared terminology
+- `docs/rules/`: Project rules
+
+Required ADR documents:
+
+- `ADR-001-Project-Vision.md`
+- `ADR-002-Lesson-Structure.md`
+- `ADR-003-Code-Convention.md`
+- `ADR-004-Repository-Structure.md`
+- `ADR-005-Learning-Philosophy.md`
+- `ADR-006-ERP-Integration.md`
+- `ADR-007-Git-Workflow.md`
+- `ADR-008-PDF-Publishing.md`
+
+ADR documents record stable project philosophy and decisions.
+
+ADR documents must not contain lesson body content.
 
 ## Publication Rule
 
@@ -187,6 +215,6 @@ Markdown should remain compatible with GitBook and PDF publication workflows.
 
 ## Current Work Boundary
 
-The current repository foundation creates structure and planning documents only.
+The current repository foundation and documentation system create structure and planning documents only.
 
 No lesson body, including Lesson01, is created in this foundation step.

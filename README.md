@@ -70,6 +70,10 @@ JBMC will eventually include:
 - `images/`: Image assets for GitBook and PDF publication
 - `pdf/`: PDF build outputs and PDF-related resources
 - `template/`: Lesson and document templates
+- `docs/`: Project-level documentation system
+- `docs/decisions/`: Architecture Decision Records for stable project decisions
+- `docs/glossary/`: Shared terminology
+- `docs/rules/`: Project rules
 
 ## Required Documents
 
@@ -80,6 +84,18 @@ JBMC will eventually include:
 - `LESSON_STATUS.md`: Lesson production status
 - `CHANGELOG.md`: Project history
 - `AGENTS.md`: Rules for Codex and future AI-assisted work
+- `docs/decisions/ADR-001-Project-Vision.md`: Project vision decision
+- `docs/decisions/ADR-002-Lesson-Structure.md`: Lesson structure decision
+- `docs/decisions/ADR-003-Code-Convention.md`: Code convention decision
+- `docs/decisions/ADR-004-Repository-Structure.md`: Repository structure decision
+- `docs/decisions/ADR-005-Learning-Philosophy.md`: Learning philosophy decision
+- `docs/decisions/ADR-006-ERP-Integration.md`: ERP integration decision
+- `docs/decisions/ADR-007-Git-Workflow.md`: Git workflow decision
+- `docs/decisions/ADR-008-PDF-Publishing.md`: PDF publishing decision
+- `docs/glossary/Glossary.md`: Shared terminology
+- `docs/rules/RULE-001.md`: `MASTER_BOOK.md` authority rule
+- `docs/rules/RULE-002.md`: Lesson structure preservation rule
+- `docs/rules/RULE-003.md`: Documentation source and publication rule
 
 ## Current Status
 

@@ -16,6 +16,21 @@ For curriculum authority, always use `MASTER_BOOK.md`.
 - `CHANGELOG.md`: Project history
 - `LICENSE`: Repository license
 
+## Documentation System
+
+- `docs/decisions/ADR-001-Project-Vision.md`: Project vision
+- `docs/decisions/ADR-002-Lesson-Structure.md`: Lesson structure decision
+- `docs/decisions/ADR-003-Code-Convention.md`: Code convention decision
+- `docs/decisions/ADR-004-Repository-Structure.md`: Repository structure decision
+- `docs/decisions/ADR-005-Learning-Philosophy.md`: Learning philosophy decision
+- `docs/decisions/ADR-006-ERP-Integration.md`: ERP integration decision
+- `docs/decisions/ADR-007-Git-Workflow.md`: Git workflow decision
+- `docs/decisions/ADR-008-PDF-Publishing.md`: PDF publishing decision
+- `docs/glossary/Glossary.md`: Shared terminology
+- `docs/rules/RULE-001.md`: `MASTER_BOOK.md` authority rule
+- `docs/rules/RULE-002.md`: Lesson structure preservation rule
+- `docs/rules/RULE-003.md`: Documentation source and publication rule
+
 ## Main Folders
 
 - `lesson/`: Lesson placeholders from `Lesson01` to `Lesson50`
@@ -25,6 +40,7 @@ For curriculum authority, always use `MASTER_BOOK.md`.
 - `images/`: Images for Markdown, GitBook, and PDF output
 - `pdf/`: PDF generation outputs and related assets
 - `template/`: Reusable lesson and document templates
+- `docs/`: Project-level documentation system
 
 ## Curriculum Index
 

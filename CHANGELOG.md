@@ -6,7 +6,16 @@ This project uses professional commit conventions from the beginning.
 
 ## 2026-07-04
 
-### Added
+### Documentation System
+
+- Added `docs/` documentation system.
+- Added Architecture Decision Records under `docs/decisions/`.
+- Added shared glossary under `docs/glossary/`.
+- Added project rules under `docs/rules/`.
+- Updated `README.md` and `MASTER_BOOK.md` to reflect the documentation system.
+- Simplified `AGENTS.md` to reference ADR and rules documents.
+
+### Repository Foundation
 
 - Created repository foundation for Java-Backend-Master-Course.
 - Added required root documents.
