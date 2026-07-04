@@ -1,0 +1,41 @@
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java and Gradle
+.gradle/
+build/
+out/
+target/
+bin/
+*.class
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Archives and generated publication output
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# PDF generated files
+pdf/generated/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak

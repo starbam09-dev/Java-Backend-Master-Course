@@ -1,0 +1,94 @@
+# MASTER_INDEX.md
+
+This file is the navigation index for Java-Backend-Master-Course.
+
+For curriculum authority, always use `MASTER_BOOK.md`.
+
+## Core Documents
+
+- `README.md`: Repository overview and project identity
+- `AGENTS.md`: Rules for Codex and AI-assisted work
+- `MASTER_BOOK.md`: Highest-priority curriculum source of truth
+- `MASTER_INDEX.md`: Navigation index
+- `ROADMAP.md`: Long-term roadmap
+- `PLANS.md`: Working plan and milestones
+- `LESSON_STATUS.md`: Lesson progress tracker
+- `CHANGELOG.md`: Project history
+- `LICENSE`: Repository license
+
+## Main Folders
+
+- `lesson/`: Lesson placeholders from `Lesson01` to `Lesson50`
+- `projects/`: Java, Spring Boot, and ERP practice projects
+- `resources/`: Supplementary learning resources
+- `diagrams/`: UML, ERD, Mermaid, and architecture diagrams
+- `images/`: Images for Markdown, GitBook, and PDF output
+- `pdf/`: PDF generation outputs and related assets
+- `template/`: Reusable lesson and document templates
+
+## Curriculum Index
+
+### Phase 1: Java Recovery
+
+- `lesson/Lesson01/`
+- `lesson/Lesson02/`
+- `lesson/Lesson03/`
+- `lesson/Lesson04/`
+- `lesson/Lesson05/`
+- `lesson/Lesson06/`
+- `lesson/Lesson07/`
+- `lesson/Lesson08/`
+- `lesson/Lesson09/`
+- `lesson/Lesson10/`
+
+### Phase 2: OOP
+
+- `lesson/Lesson11/`
+- `lesson/Lesson12/`
+- `lesson/Lesson13/`
+- `lesson/Lesson14/`
+- `lesson/Lesson15/`
+- `lesson/Lesson16/`
+- `lesson/Lesson17/`
+- `lesson/Lesson18/`
+- `lesson/Lesson19/`
+- `lesson/Lesson20/`
+
+### Phase 3: Collection
+
+- `lesson/Lesson21/`
+- `lesson/Lesson22/`
+- `lesson/Lesson23/`
+- `lesson/Lesson24/`
+- `lesson/Lesson25/`
+- `lesson/Lesson26/`
+- `lesson/Lesson27/`
+- `lesson/Lesson28/`
+- `lesson/Lesson29/`
+- `lesson/Lesson30/`
+
+### Phase 4: Spring Boot
+
+- `lesson/Lesson31/`
+- `lesson/Lesson32/`
+- `lesson/Lesson33/`
+- `lesson/Lesson34/`
+- `lesson/Lesson35/`
+- `lesson/Lesson36/`
+- `lesson/Lesson37/`
+- `lesson/Lesson38/`
+- `lesson/Lesson39/`
+- `lesson/Lesson40/`
+
+### Phase 5: ERP
+
+- `lesson/Lesson41/`
+- `lesson/Lesson42/`
+- `lesson/Lesson43/`
+- `lesson/Lesson44/`
+- `lesson/Lesson45/`
+- `lesson/Lesson46/`
+- `lesson/Lesson47/`
+- `lesson/Lesson48/`
+- `lesson/Lesson49/`
+- `lesson/Lesson50/`
