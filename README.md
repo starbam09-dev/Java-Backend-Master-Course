@@ -66,10 +66,14 @@ JBMC will eventually include:
 - `lesson/`: Lesson folders from `Lesson01` to `Lesson50`
 - `projects/`: Practice projects and final ERP project sources
 - `resources/`: Supporting learning resources
+- `resources/diagrams/`: Diagram source groups for class, sequence, ERD, flow, and architecture diagrams
 - `diagrams/`: UML, ERD, Mermaid, and architecture diagrams
 - `images/`: Image assets for GitBook and PDF publication
 - `pdf/`: PDF build outputs and PDF-related resources
 - `template/`: Lesson and document templates
+- `templates/`: Reusable authoring templates
+- `prompts/`: Reusable prompts for lesson, mission, review, code review, and refactoring work
+- `workspace/`: Phase-oriented authoring workspace
 - `docs/`: Project-level documentation system
 - `docs/decisions/`: Architecture Decision Records for stable project decisions
 - `docs/glossary/`: Shared terminology
@@ -84,6 +88,7 @@ JBMC will eventually include:
 - `LESSON_STATUS.md`: Lesson production status
 - `CHANGELOG.md`: Project history
 - `AGENTS.md`: Rules for Codex and future AI-assisted work
+- `KnowledgeMap.md`: Mermaid-based learning connection map from Java to ERP
 - `docs/decisions/ADR-001-Project-Vision.md`: Project vision decision
 - `docs/decisions/ADR-002-Lesson-Structure.md`: Lesson structure decision
 - `docs/decisions/ADR-003-Code-Convention.md`: Code convention decision
@@ -99,6 +104,6 @@ JBMC will eventually include:
 
 ## Current Status
 
-The repository foundation has been created.
+The repository foundation and authoring environment have been created.
 
 Lesson writing has not started yet.

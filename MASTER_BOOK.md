@@ -176,9 +176,48 @@ Required root folders:
 - `images/`
 - `pdf/`
 - `template/`
+- `templates/`
+- `prompts/`
+- `workspace/`
 - `docs/`
 
 The `lesson/` folder must contain placeholder folders from `Lesson01` to `Lesson50`.
+
+## Authoring Environment
+
+The repository must support continuous writing for all 50 lessons.
+
+Required authoring folders:
+
+- `templates/`: Reusable Markdown templates
+- `prompts/`: Reusable writing and review prompts
+- `workspace/`: Phase-oriented drafting workspace
+- `resources/diagrams/`: Diagram source organization
+
+Required workspace structure:
+
+- `workspace/JavaRecovery/`
+- `workspace/OOP/`
+- `workspace/Collection/`
+- `workspace/Generic/`
+- `workspace/SpringBoot/`
+- `workspace/ERP/`
+
+Required project structure:
+
+- `projects/ConsoleLibrary/`
+- `projects/SpringBootLibrary/`
+- `projects/ERP/`
+
+Required diagram structure:
+
+- `resources/diagrams/class/`
+- `resources/diagrams/sequence/`
+- `resources/diagrams/erd/`
+- `resources/diagrams/flow/`
+- `resources/diagrams/architecture/`
+
+`KnowledgeMap.md` records the high-level learning connection from Java to ERP.
 
 ## Documentation System
 

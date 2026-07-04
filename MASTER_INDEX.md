@@ -15,6 +15,7 @@ For curriculum authority, always use `MASTER_BOOK.md`.
 - `LESSON_STATUS.md`: Lesson progress tracker
 - `CHANGELOG.md`: Project history
 - `LICENSE`: Repository license
+- `KnowledgeMap.md`: Mermaid-based Java to ERP learning connection map
 
 ## Documentation System
 
@@ -40,7 +41,23 @@ For curriculum authority, always use `MASTER_BOOK.md`.
 - `images/`: Images for Markdown, GitBook, and PDF output
 - `pdf/`: PDF generation outputs and related assets
 - `template/`: Reusable lesson and document templates
+- `templates/`: Authoring templates
+- `prompts/`: Reusable authoring prompts
+- `workspace/`: Phase-oriented drafting workspace
 - `docs/`: Project-level documentation system
+
+## Authoring Environment
+
+- `templates/Lesson.template.md`: Standard lesson template
+- `templates/Mission.template.md`: Mission authoring template
+- `templates/Review.template.md`: Review material template
+- `templates/Example.template.md`: Example code explanation template
+- `templates/CodeReview.template.md`: Code review template
+- `prompts/Prompt-Lesson.md`: Lesson drafting prompt
+- `prompts/Prompt-CodeReview.md`: Code review prompt
+- `prompts/Prompt-Review.md`: Review material prompt
+- `prompts/Prompt-Mission.md`: Mission prompt
+- `prompts/Prompt-Refactor.md`: Refactoring prompt
 
 ## Curriculum Index
 

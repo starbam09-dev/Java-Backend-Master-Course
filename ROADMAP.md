@@ -8,7 +8,7 @@ This roadmap describes the long-term development path for Java-Backend-Master-Co
 
 Goal: Create the stable structure for a long-term textbook repository.
 
-Status: In progress
+Status: Complete
 
 Scope:
 
@@ -18,6 +18,22 @@ Scope:
 - Define Codex working rules
 - Define status tracking
 - Create first commit and push to GitHub
+
+## Stage 1: Authoring Environment
+
+Goal: Prepare a repeatable authoring environment for writing all 50 lessons.
+
+Status: Complete
+
+Scope:
+
+- Create reusable Markdown templates under `templates/`
+- Create reusable authoring prompts under `prompts/`
+- Create phase-oriented workspaces under `workspace/`
+- Create diagram source groups under `resources/diagrams/`
+- Create project workspaces under `projects/`
+- Create `KnowledgeMap.md` with the Java to ERP learning flow
+- Update repository documentation for the new authoring structure
 
 ## Phase 1: Java Recovery, Lesson01 to Lesson10
 
