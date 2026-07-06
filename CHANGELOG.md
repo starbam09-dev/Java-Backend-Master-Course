@@ -10,8 +10,11 @@ This project uses professional commit conventions from the beginning.
 
 - Added `lesson/Lesson01/Lesson01.md` as the first Java Recovery lesson.
 - Revised Lesson01 to improve hands-on flow, reduce unnecessary theory, and fit a 2-hour class.
+- Added `lesson/Lesson02/Lesson02.md` for Class and Object recovery practice.
 - Updated `LESSON_STATUS.md` to mark Lesson01 as ready for review.
+- Updated `LESSON_STATUS.md` to mark Lesson02 as ready for review.
 - Updated `MASTER_INDEX.md` to point to the Lesson01 Markdown file.
+- Updated `MASTER_INDEX.md` to point to the Lesson02 Markdown file.
 
 ## 2026-07-04
 

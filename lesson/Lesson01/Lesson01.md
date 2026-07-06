@@ -442,12 +442,12 @@ public static void printBook(String title, String author, int price, int stock) 
 
 ## 14. 다음 Lesson
 
-다음 Lesson에서는 변수와 자료형을 더 자세히 정리한다.
+다음 Lesson에서는 Class와 Object를 이용해 실제 객체를 생성한다.
 
-Lesson01에서는 여러 문법을 한 번에 다시 움직여 보았다. Lesson02에서는 그중에서도 값을 저장하는 방법에 집중한다.
+Lesson01에서는 여러 값을 변수로 따로 저장했다. Lesson02에서는 `Book` 클래스를 만들고, `new Book()`으로 객체를 생성해서 관련 있는 값을 하나로 묶는다.
 
 다음 질문을 생각해보고 넘어가자.
 
-- 도서명은 왜 `String`인가?
-- 가격과 재고는 왜 `int`로 표현할 수 있는가?
-- 대여 가능 여부는 왜 `boolean`으로 표현할 수 있는가?
+- 도서명, 저자, 가격, 재고를 왜 하나의 `Book` 객체로 묶을 수 있을까?
+- `new`는 무엇을 만드는 키워드일까?
+- Spring Boot의 DTO와 VO는 왜 클래스로 만들까?

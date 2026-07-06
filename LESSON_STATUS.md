@@ -16,7 +16,7 @@ Status values:
 | Lesson | Phase | Status | Notes |
 | --- | --- | --- | --- |
 | Lesson01 | Java Recovery | Review | First draft written for Java recovery and IntelliJ practice |
-| Lesson02 | Java Recovery | Not Started | Placeholder only |
+| Lesson02 | Java Recovery | Review | First draft written for class and object recovery practice |
 | Lesson03 | Java Recovery | Not Started | Placeholder only |
 | Lesson04 | Java Recovery | Not Started | Placeholder only |
 | Lesson05 | Java Recovery | Not Started | Placeholder only |
