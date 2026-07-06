@@ -27,6 +27,7 @@ Codex must use these documents when the task touches their scope:
 - Do not create code unless the current task explicitly asks for code.
 - Keep Markdown as the documentation source of truth.
 - Keep changes aligned with the existing repository structure.
+- Never modify files under the `recovery/` directory unless the user explicitly requests it. These files are user-owned learning journals.
 
 ## Git Rule
 
