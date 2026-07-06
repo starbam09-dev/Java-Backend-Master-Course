@@ -4,6 +4,14 @@ All notable changes to Java-Backend-Master-Course will be documented in this fil
 
 This project uses professional commit conventions from the beginning.
 
+## 2026-07-06
+
+### Lessons
+
+- Added `lesson/Lesson01/Lesson01.md` as the first Java Recovery lesson.
+- Updated `LESSON_STATUS.md` to mark Lesson01 as ready for review.
+- Updated `MASTER_INDEX.md` to point to the Lesson01 Markdown file.
+
 ## 2026-07-04
 
 ### Authoring Environment

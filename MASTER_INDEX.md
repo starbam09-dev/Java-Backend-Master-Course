@@ -63,7 +63,7 @@ For curriculum authority, always use `MASTER_BOOK.md`.
 
 ### Phase 1: Java Recovery
 
-- `lesson/Lesson01/`
+- `lesson/Lesson01/Lesson01.md`
 - `lesson/Lesson02/`
 - `lesson/Lesson03/`
 - `lesson/Lesson04/`
