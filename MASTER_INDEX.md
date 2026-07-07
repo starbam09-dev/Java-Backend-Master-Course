@@ -66,7 +66,7 @@ For curriculum authority, always use `MASTER_BOOK.md`.
 - `lesson/Lesson01/Lesson01.md`
 - `lesson/Lesson02/Lesson02.md`
 - `lesson/Lesson03/Lesson03.md`
-- `lesson/Lesson04/`
+- `lesson/Lesson04/Lesson04.md`
 - `lesson/Lesson05/`
 - `lesson/Lesson06/`
 - `lesson/Lesson07/`

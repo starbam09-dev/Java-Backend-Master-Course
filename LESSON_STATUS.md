@@ -18,7 +18,7 @@ Status values:
 | Lesson01 | Java Recovery | Review | First draft written for Java recovery and IntelliJ practice |
 | Lesson02 | Java Recovery | Review | First draft written for class and object recovery practice |
 | Lesson03 | Java Recovery | Review | First draft written for object method practice |
-| Lesson04 | Java Recovery | Not Started | Placeholder only |
+| Lesson04 | Java Recovery | Review | First draft written for object state mutation practice |
 | Lesson05 | Java Recovery | Not Started | Placeholder only |
 | Lesson06 | Java Recovery | Not Started | Placeholder only |
 | Lesson07 | Java Recovery | Not Started | Placeholder only |

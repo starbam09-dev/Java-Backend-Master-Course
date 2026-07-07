@@ -9,8 +9,11 @@ This project uses professional commit conventions from the beginning.
 ### Lessons
 
 - Added `lesson/Lesson03/Lesson03.md` for object method practice.
+- Added `lesson/Lesson04/Lesson04.md` for object state mutation practice.
 - Updated `LESSON_STATUS.md` to mark Lesson03 as ready for review.
+- Updated `LESSON_STATUS.md` to mark Lesson04 as ready for review.
 - Updated `MASTER_INDEX.md` to point to the Lesson03 Markdown file.
+- Updated `MASTER_INDEX.md` to point to the Lesson04 Markdown file.
 
 ## 2026-07-06
 
